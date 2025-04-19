@@ -64,3 +64,5 @@ Tools Used:
     Developed by: Charon
 
     Telegram: @aa0aaa
+
+ <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cybersecurity+Researcher;Ethical+Hacker;Bash+Developer;Security+Tools+Maker" alt="Typing SVG" /> </p> 
