@@ -46,12 +46,12 @@ Tools Used:
     waybackurls
 
 
-🚀 Usage
+🚀 Usage :
 
-git clone https://github.com/yourusername/charon-scanner.git
-cd charon-scanner
-chmod +x charon_scanner.sh
-./charon_scanner.sh <target-domain.com>
+ git clone https://github.com/yourusername/charon-scanner.git
+ cd charon-scanner
+ chmod +x charon_scanner.sh
+ ./charon_scanner.sh <target-domain.com>
 
 
 
